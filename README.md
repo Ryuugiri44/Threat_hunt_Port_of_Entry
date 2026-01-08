@@ -157,7 +157,9 @@ DeviceLogonEvents
 <Actionable guidance for defenders>
 
 </details>
+
 ---
+
 <details>
 <summary id="-flag-2">🚩 <strong>Flag 2: INITIAL ACCESS - Compromised User Account <Technique Name> </strong></summary>
 
@@ -199,7 +201,9 @@ DeviceLogonEvents
 <Actionable guidance for defenders>
 
 </details>
+
 ---
+
 <details>
 <summary id="-flag-3">🚩 <strong>Flag 3: INITIAL ACCESS - Compromised User Account </strong></summary>
 
@@ -241,7 +245,9 @@ DeviceLogonEvents
 <Actionable guidance for defenders>
 
 </details>
+
 ---
+
 <details>
 <summary id="-flag-4">🚩 <strong>Flag 4: INITIAL ACCESS - Compromised User Account </strong></summary>
 
@@ -283,7 +289,9 @@ DeviceLogonEvents
 <Actionable guidance for defenders>
 
 </details>
+
 ---
+
 <details>
 <summary id="-flag-5">🚩 <strong>Flag 5: INITIAL ACCESS - Compromised User Account </strong></summary>
 
@@ -325,7 +333,9 @@ DeviceLogonEvents
 <Actionable guidance for defenders>
 
 </details>
+
 ---
+
 <details>
 <summary id="-flag-6">🚩 <strong>Flag 6: INITIAL ACCESS - Compromised User Account </strong></summary>
 
@@ -367,7 +377,9 @@ DeviceLogonEvents
 <Actionable guidance for defenders>
 
 </details>
+
 ---
+
 <details>
 <summary id="-flag-7">🚩 <strong>Flag 7: INITIAL ACCESS - Compromised User Account </strong></summary>
 
@@ -409,7 +421,9 @@ DeviceLogonEvents
 <Actionable guidance for defenders>
 
 </details>
+
 ---
+
 <details>
 <summary id="-flag-8">🚩 <strong>Flag 8: INITIAL ACCESS - Compromised User Account </strong></summary>
 
@@ -451,7 +465,9 @@ DeviceLogonEvents
 <Actionable guidance for defenders>
 
 </details>
+
 ---
+
 <details>
 <summary id="-flag-9">🚩 <strong>Flag 9: INITIAL ACCESS - Compromised User Account </strong></summary>
 
@@ -493,7 +509,9 @@ DeviceLogonEvents
 <Actionable guidance for defenders>
 
 </details>
+
 ---
+
 <details>
 <summary id="-flag-10">🚩 <strong>Flag 10: INITIAL ACCESS - Compromised User Account </strong></summary>
 
@@ -535,7 +553,9 @@ DeviceLogonEvents
 <Actionable guidance for defenders>
 
 </details>
+
 ---
+
 <details>
 <summary id="-flag-11">🚩 <strong>Flag 11: INITIAL ACCESS - Compromised User Account </strong></summary>
 
@@ -577,7 +597,9 @@ DeviceLogonEvents
 <Actionable guidance for defenders>
 
 </details>
+
 ---
+
 <details>
 <summary id="-flag-12">🚩 <strong>Flag 12: INITIAL ACCESS - Compromised User Account </strong></summary>
 
@@ -619,7 +641,9 @@ DeviceLogonEvents
 <Actionable guidance for defenders>
 
 </details>
+
 ---
+
 <details>
 <summary id="-flag-13">🚩 <strong>Flag 13: INITIAL ACCESS - Compromised User Account </strong></summary>
 
@@ -661,7 +685,9 @@ DeviceLogonEvents
 <Actionable guidance for defenders>
 
 </details>
+
 ---
+
 <details>
 <summary id="-flag-14">🚩 <strong>Flag 14: INITIAL ACCESS - Compromised User Account </strong></summary>
 
@@ -703,7 +729,9 @@ DeviceLogonEvents
 <Actionable guidance for defenders>
 
 </details>
+
 ---
+
 <details>
 <summary id="-flag-15">🚩 <strong>Flag 15: INITIAL ACCESS - Compromised User Account </strong></summary>
 
@@ -745,7 +773,9 @@ DeviceLogonEvents
 <Actionable guidance for defenders>
 
 </details>
+
 ---
+
 <details>
 <summary id="-flag-16">🚩 <strong>Flag 16: INITIAL ACCESS - Compromised User Account </strong></summary>
 
@@ -787,7 +817,9 @@ DeviceLogonEvents
 <Actionable guidance for defenders>
 
 </details>
+
 ---
+
 <details>
 <summary id="-flag-17">🚩 <strong>Flag 17: INITIAL ACCESS - Compromised User Account </strong></summary>
 
@@ -829,7 +861,9 @@ DeviceLogonEvents
 <Actionable guidance for defenders>
 
 </details>
+
 ---
+
 <details>
 <summary id="-flag-18">🚩 <strong>Flag 18: INITIAL ACCESS - Compromised User Account </strong></summary>
 
@@ -871,7 +905,9 @@ DeviceLogonEvents
 <Actionable guidance for defenders>
 
 </details>
+
 ---
+
 <details>
 <summary id="-flag-19">🚩 <strong>Flag 19: INITIAL ACCESS - Compromised User Account </strong></summary>
 
@@ -913,7 +949,9 @@ DeviceLogonEvents
 <Actionable guidance for defenders>
 
 </details>
+
 ---
+
 <details>
 <summary id="-flag-20">🚩 <strong>Flag 20: INITIAL ACCESS - Compromised User Account </strong></summary>
 
@@ -955,7 +993,7 @@ DeviceLogonEvents
 <Actionable guidance for defenders>
 
 </details>
----
+
 ---
 
 ## 🚨 Detection Gaps & Recommendations
